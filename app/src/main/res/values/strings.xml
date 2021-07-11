@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android Intern Assignment</string>
+    <string name="language">Language</string>
+    <string name="name">Name</string>
+    <string name="capitcal">Capitcal</string>
+    <string name="region">Region</string>
+    <string name="sub_region">Sub Region</string>
+    <string name="population">Population</string>
+    <string name="borders">Borders</string>
+    <string name="todo">TODO</string>
+    <string name="click_button_to_delete_the_room_database">Click Button to Delete the Room Database</string>
+</resources>
